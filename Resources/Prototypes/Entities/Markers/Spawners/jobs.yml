@@ -476,10 +476,10 @@
 - type: entity
   id: SpawnPointDetective
   parent: SpawnPointJobBase
-  name: detective
+  name: Security Deputy
   components:
   - type: SpawnPoint
-    job_id: Detective
+    job_id: SecurityDeputy
   - type: Sprite
     layers:
       - state: green

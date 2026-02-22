@@ -16,7 +16,7 @@ job-name-clown = Clown
 job-name-cluwne = Cluwne
 job-name-cmo = Chief Medical Officer
 job-name-deathsquad = Death Squad
-job-name-detective = Detective
+job-name-security-deputy = Security Deputy
 job-name-doctor = Medical Doctor
 job-name-engineer = Station Engineer
 job-name-ertchaplain = ERT Chaplain
@@ -76,7 +76,7 @@ job-title-cluwne = Cluwne
 job-title-universal = Universal
 job-title-visitor = Visitor
 
-# Role timers - Make these alphabetical or I cut you
+# Role timers - Make these alphabetical or I cut you (FUCK YOU)
 JobAtmosphericTechnician = Atmospheric Technician
 JobBartender = Bartender
 JobBorg = Borg
@@ -90,7 +90,7 @@ JobChemist = Chemist
 JobChiefEngineer = Chief Engineer
 JobChiefMedicalOfficer = Chief Medical Officer
 JobClown = Clown
-JobDetective = Detective
+JobSecurityDeputy = Security Deputy
 JobBrigmedic = Brigmedic
 JobERTChaplain = ERT Chaplain
 JobERTEngineer = ERT Engineer

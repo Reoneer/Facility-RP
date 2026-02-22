@@ -74,6 +74,17 @@ public sealed partial class IdCardConsoleComponent : Component
         "Security",
         "Service",
         "Theatre",
+        "Security Deputy",
+        "Gate",
+        "Security 1",
+        "Security 2",
+        "Security 3",
+        "Admin 1",
+        "Admin 2",
+        "Admin 3",
+        "Control 1",
+        "Control 2",
+        "Control 3",
     };
 
     [Serializable, NetSerializable]

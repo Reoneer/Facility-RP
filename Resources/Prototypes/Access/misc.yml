@@ -1,3 +1,75 @@
+- type: accessLevel
+  id: Security 1
+  name: id-card-access-level-frp-s1
+
+- type: accessLevel
+  id: Security 2
+  name: id-card-access-level-frp-s2
+
+- type: accessLevel
+  id: Security 3
+  name: id-card-access-level-frp-s3
+
+- type: accessLevel
+  id: Admin 1
+  name: id-card-access-level-frp-a1
+
+- type: accessLevel
+  id: Admin 2
+  name: id-card-access-level-frp-a2
+
+- type: accessLevel
+  id: Admin 3
+  name: id-card-access-level-frp-a3
+
+- type: accessLevel
+  id: Control 1
+  name: id-card-access-level-frp-c1
+
+- type: accessLevel
+  id: Control 2
+  name: id-card-access-level-frp-c2
+
+- type: accessLevel
+  id: Control 3
+  name: id-card-access-level-frp-c3
+
+- type: accessLevel
+  id: Gate
+  name: id-card-access-level-frp-security-gate
+
+- type: accessLevel
+  id: Security Deputy
+  name: id-card-access-level-frp-security-deputy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - type: accessGroup
   id: AllAccess
   tags:

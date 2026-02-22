@@ -44,7 +44,7 @@
   id: JobClown
 
 - type: playTimeTracker
-  id: JobDetective
+  id: JobSecurityDeputy
 
 - type: playTimeTracker
   id: JobERTChaplain

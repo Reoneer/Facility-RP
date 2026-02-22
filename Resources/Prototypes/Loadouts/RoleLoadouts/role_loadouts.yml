@@ -410,17 +410,18 @@
   - GroupSpeciesBreathToolSecurity
 
 - type: roleLoadout
-  id: JobDetective
+  id: JobSecurityDeputy
   groups:
-  - DetectiveHead
-  - DetectiveNeck
-  - DetectiveJumpsuit
+  - SecurityHead
+  - SecurityJumpsuit
   - SecurityBackpack
-  - DetectiveOuterClothing
+  - SecurityOuterClothing
   - SecurityShoes
+  - SecurityPDA
+  - SecurityBelt
   - SurvivalSecurity
   - Trinkets
-  - DetectiveJobTrinkets
+  - SecurityJobTrinkets
   - GroupSpeciesBreathToolSecurity
 
 - type: roleLoadout

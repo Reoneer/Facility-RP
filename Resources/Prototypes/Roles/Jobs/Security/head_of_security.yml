@@ -5,10 +5,7 @@
   playTimeTracker: JobHeadOfSecurity
   requirements:
     - !type:RoleTimeRequirement
-      role: JobWarden
-      time: 3h
-    - !type:RoleTimeRequirement
-      role: JobDetective
+      role: JobSecurityDeputy
       time: 1h # knowing how to use the tools is important
     - !type:RoleTimeRequirement
       role: JobSecurityOfficer
@@ -28,6 +25,7 @@
   - Security
   - Armory
   - Maintenance
+  - Gate
   - External
   - Detective
   - Cryogenics

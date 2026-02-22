@@ -1,10 +1,10 @@
-id-card-access-level-command = Command
-id-card-access-level-captain = Captain
+id-card-access-level-command = Directors
+id-card-access-level-captain = Director of Operations
 id-card-access-level-head-of-personnel = Head of Personnel
 id-card-access-level-cryogenics = Cryogenics
 id-card-access-level-emergency-shuttle-repeal = E.Shuttle Repeal All
 
-id-card-access-level-head-of-security = Head of Security
+id-card-access-level-head-of-security = Director of Security
 id-card-access-level-security = Security
 id-card-access-level-armory = Armory
 id-card-access-level-brig = Brig
@@ -12,19 +12,19 @@ id-card-access-level-detective = Detective
 id-card-access-level-genpop-enter = Enter Genpop
 id-card-access-level-genpop-leave = Leave Genpop
 
-id-card-access-level-chief-engineer = Chief Engineer
-id-card-access-level-engineering = Engineering
+id-card-access-level-chief-engineer = Director of Engineering
+id-card-access-level-engineering = Engineer
 id-card-access-level-atmospherics = Atmospherics
 
-id-card-access-level-research-director = Research Director
-id-card-access-level-research = Research
+id-card-access-level-research-director = Director of Research
+id-card-access-level-research = Researcher
 
-id-card-access-level-chief-medical-officer = Chief Medical Officer
+id-card-access-level-chief-medical-officer = Director of Medical
 id-card-access-level-medical = Medical
 id-card-access-level-chemistry = Chemistry
 id-card-access-level-paramedic = Paramedic
 
-id-card-access-level-quartermaster = Quartermaster
+id-card-access-level-quartermaster = Director of Logistics
 id-card-access-level-cargo = Cargo
 id-card-access-level-salvage = Salvage
 
@@ -53,3 +53,17 @@ id-card-access-level-borg = Cyborg
 id-card-access-level-basic-silicon = Robot
 
 id-card-access-level-basic-xenoborg = Xenoborg
+
+id-card-access-level-frp-security-gate  = Gate
+id-card-access-level-frp-security-deputy  = Security Deputy
+
+
+id-card-access-level-frp-s1 = S1
+id-card-access-level-frp-s2 = S2
+id-card-access-level-frp-s3 = S3
+id-card-access-level-frp-a1 = A1
+id-card-access-level-frp-a2 = A2
+id-card-access-level-frp-a3 = A3
+id-card-access-level-frp-c1 = C1
+id-card-access-level-frp-c2 = C2
+id-card-access-level-frp-c3 = C3

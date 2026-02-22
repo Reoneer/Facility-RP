@@ -1,23 +1,21 @@
 - type: job
-  id: Detective
-  name: job-name-detective
-  description: job-description-detective
-  playTimeTracker: JobDetective
+  id: SecurityDeputy
+  name: job-name-security-deputy
+  description: job-description-security-deputy
+  playTimeTracker: JobSecurityDeputy
   requirements:
   - !type:RoleTimeRequirement
     role: JobSecurityOfficer
     time: 5h
-  startingGear: DetectiveGear
+  startingGear: security-deputy
   icon: "JobIconDetective"
   supervisors: job-supervisors-hos
   canBeAntag: false
   access:
-  - Security
-  - Brig
-  - Maintenance
-  - Detective
-  - Cryogenics
-  - External
+  - 2-2-2
+  - Security 2
+  - Admin 1
+  - Control 1
   special:
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant ]
@@ -32,8 +30,6 @@
   storage:
     back:
     - Flash
-    - ForensicPad
-    - ForensicScanner
 
 - type: chameleonOutfit
   id: DetectiveChameleonOutfit
